@@ -9,12 +9,12 @@ Sempre trabalhei com tecnologia, quando adolescente trabalhei com manutenção d
 
 ## Tecnologias:
 - Cloud Computing: AWS, Terraform (IaC), GCP
-- Mensageria e Filas: Kafka, RabbitMQ, SQS
+- Mensageria e Filas: Kafka, RabbitMQ, SQS, GCP Pub/Sub
 - Infraestrutura: Docker, Kubernets, ArgoCD, ElasticSearch, Grafana
 - Pipelines: Github Actions, Gitlab CI, AWS pipelines
-- Banco de dados NoSQL: Redis, MongoDB, DynamoDB
+- Banco de dados NoSQL: Redis, MongoDB, AWS DynamoDB, GCP Firestore
 - Banco de dados SQL: Mysql, Postgres
-- stacks de programação: Golang, PHP com Laravel, Python Flask / Django, NodeJS Typescript / AdonisJS / NestJS, ReactJS / NextJS
+- stacks de programação: NodeJS Typescript / AdonisJS / NestJS, Golang, PHP com Laravel, Python Flask / Django, ReactJS / NextJS
 
 ## Eventos que já participei nos últimos anos: 
 - Devops Day,
@@ -51,19 +51,22 @@ Sobre as categorias de tecnologias e experiências profissionais, deixarei abaix
 
 ## Por tecnologias:
 ### Python:
-- Artigos: https://medium.com/@rafaellevissa/list/python-projects-73a71e667cac
-- Vídeos: https://www.youtube.com/playlist?list=PLemoLhVHAhFSZftXLrKez6bFzXlvhCNhn
-- Repositórios de projetos: https://github.com/rafaellevissa?tab=repositories&q=&type=&language=python&sort=
-- - REST API Python e Flask: (Docker, Swagger, ORM Alembic, Teste Unitários, MYSQL, JWT)
-  - https://github.com/rafaellevissa/company-python ,
-  - https://github.com/rafaellevissa/python-desafio,
-  - https://github.com/rafaellevissa/Desafio-Horus
-- - REST API Python e Django: https://github.com/rafaellevissa/api-python-django (Mysql, Docker, JWT, Swagger)
-- - Arquitetura servless, Lambda Functions com Python: https://github.com/rafaellevissa/lambda-function-desafio-crud-user (Mysql, JWT)
+- [Artigos](https://medium.com/@rafaellevissa/list/python-projects-73a71e667cac)
+- [Vídeos](https://www.youtube.com/playlist?list=PLemoLhVHAhFSZftXLrKez6bFzXlvhCNhn)
+- [Repositórios de projetos](https://github.com/rafaellevissa?tab=repositories&q=&type=&language=python&sort=)
+  - REST API Python e Flask: (Docker, Swagger, ORM Alembic, Teste Unitários, MYSQL, JWT)
+    - https://github.com/rafaellevissa/company-python ,
+    - https://github.com/rafaellevissa/python-desafio,
+    - https://github.com/rafaellevissa/Desafio-Horus
+  - [REST API Python e Django: (Mysql, Docker, JWT, Swagger)](https://github.com/rafaellevissa/api-python-django ) 
+  - [Arquitetura servless, Lambda Functions com Python:  (Mysql, JWT)](https://github.com/rafaellevissa/lambda-function-desafio-crud-user) 
 
-
-
-Javascript:
+### Javascript/Typescript:
+- [Artigos](https://medium.com/@rafaellevissa/list/javascript-projects-2e8f685e8ebe)
+- [Vídeos](https://www.youtube.com/playlist?list=PLemoLhVHAhFTOqsCI0bI077tT_Lw_Tstp)
+- [Repositórios de projetos Javascript](https://github.com/rafaellevissa?tab=repositories&q=&type=&language=javascript&sort=)
+- [Repositórios de projetos TypeScript](https://github.com/rafaellevissa?tab=repositories&q=&type=&language=typescript&sort=)
+- 
 
 GoLang:
 
