@@ -80,7 +80,11 @@ Sobre as categorias de tecnologias e experiências profissionais, deixarei abaix
   - [ReactJS, Typescript](https://github.com/rafaellevissa/Desafio-Horus-Front)
 
 GoLang:
-
+- [Artigos](https://medium.com/@rafaellevissa/list/golang-projects-bd7a1e1a0b6f)
+- [Vídeos](https://www.youtube.com/playlist?list=PLemoLhVHAhFRYG11w30uzSQhps1p5VTtI)
+- [Repositórios de projetos](https://github.com/rafaellevissa?tab=repositories&q=&type=&language=go&sort=)
+    - [GoLang, Google Search API, gRPC, Testify](https://github.com/rafaellevissa/google-search-service)
+    - [Golang, gRPC, Postgres, Kafka](https://github.com/rafaellevissa/books-api-with-grpc)
 
 Por categoria de negócio:
 
