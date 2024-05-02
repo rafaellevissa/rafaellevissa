@@ -67,9 +67,17 @@ Sobre as categorias de tecnologias e experiências profissionais, deixarei abaix
 - [Repositórios de projetos Javascript](https://github.com/rafaellevissa?tab=repositories&q=&type=&language=javascript&sort=)
   - [Projeto de inteligência artificial com integração com OpenAI](https://github.com/rafaellevissa/gpt-chat)
   - [Rest API com Express, Docker](https://github.com/rafaellevissa/clients-management-backend) + [Front-end em ReactJS e MUI](https://github.com/rafaellevissa/clients-management-frontend)
-  - 
 - [Repositórios de projetos TypeScript](https://github.com/rafaellevissa?tab=repositories&q=&type=&language=typescript&sort=)
-- 
+  - [NestJS, MongoDB, Google Search API, GRPC](https://github.com/rafaellevissa/google-search-api)
+  - [NodeJS, Express, Typescript, TemporalIO](https://github.com/rafaellevissa/google-search-api)
+  - [ReactJS, Typescript, MUI, i18n, Redux](https://github.com/rafaellevissa/company-reactjs)
+  - [AdonisJS, Typescript](https://github.com/rafaellevissa/adonisTSteste)
+  - [AdonisJS, Typescript](https://github.com/rafaellevissa/flutter-application-end-to-end)
+  - [ReactJS, Typescript, MUI, i18n, redux](https://github.com/rafaellevissa/led-iot-frontend)
+  - [AdonisJS, Typescript, Mysql, Redis](https://github.com/rafaellevissa/rocketbank-back) + [React, Typescript, MUI, Jest, i18n, redux](https://github.com/rafaellevissa/rocketbank-front)
+  - [NestJS, Typescript, TypeORM, JWT, Swagger, Mysql](https://github.com/rafaellevissa/nestjs-api-ts)
+  - [VueJS, Typescript, Jest](https://github.com/rafaellevissa/desaio-fron-vuejs)
+  - [ReactJS, Typescript](https://github.com/rafaellevissa/Desafio-Horus-Front)
 
 GoLang:
 
