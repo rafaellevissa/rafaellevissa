@@ -79,28 +79,32 @@ Sobre as categorias de tecnologias e experiências profissionais, deixarei abaix
   - [VueJS, Typescript, Jest](https://github.com/rafaellevissa/desaio-fron-vuejs)
   - [ReactJS, Typescript](https://github.com/rafaellevissa/Desafio-Horus-Front)
 
-GoLang:
+### GoLang:
 - [Artigos](https://medium.com/@rafaellevissa/list/golang-projects-bd7a1e1a0b6f)
 - [Vídeos](https://www.youtube.com/playlist?list=PLemoLhVHAhFRYG11w30uzSQhps1p5VTtI)
 - [Repositórios de projetos](https://github.com/rafaellevissa?tab=repositories&q=&type=&language=go&sort=)
     - [GoLang, Google Search API, gRPC, Testify](https://github.com/rafaellevissa/google-search-service)
     - [Golang, gRPC, Postgres, Kafka](https://github.com/rafaellevissa/books-api-with-grpc)
 
-Por categoria de negócio:
+## Por categoria de negócio:
+### Inteligência Artificial:
+- [Artigos](https://medium.com/@rafaellevissa/list/artificial-intelligence-559f033ca7f0)
+- [Vídeos](https://www.youtube.com/playlist?list=PLemoLhVHAhFTw_lYozErwV1PRRAFRH31K)
+- Repositórios de projetos:
+  - [Bot assistente para lives na Twitch com IA, feito em Python](https://github.com/rafaellevissa/Twitchbot-ia-lives)
+  - [Bot GPT no GPT Store](https://github.com/rafaellevissa/gpt-chat) [link da loja GPT](https://chat.openai.com/g/g-he7ZcyB1b-node-buddy)
 
-Inteligência Artificial:
+### Fintechs:
 
-Fintechs:
+### EdTechs:
 
-EdTechs:
+### HealthTechs:
 
-HealthTechs:
+### Projetos Mobile:
 
-Projetos Mobile:
+### ERPs, CRMs and Marketplaces:
 
-ERPs, CRMs and Marketplaces:
-
-Data analytics:
+### Data analytics:
 
 
 
