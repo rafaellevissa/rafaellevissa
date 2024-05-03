@@ -92,7 +92,7 @@ Sobre as categorias de tecnologias e experiências profissionais, deixarei abaix
 - [Vídeos](https://www.youtube.com/playlist?list=PLemoLhVHAhFTw_lYozErwV1PRRAFRH31K)
 - Repositórios de projetos:
   - [Bot assistente para lives na Twitch com IA, feito em Python](https://github.com/rafaellevissa/Twitchbot-ia-lives)
-  - [Bot GPT no GPT Store](https://github.com/rafaellevissa/gpt-chat) [link da loja GPT](https://chat.openai.com/g/g-he7ZcyB1b-node-buddy)
+  - [Bot GPT no GPT Store](https://github.com/rafaellevissa/gpt-chat) + [link da loja GPT](https://chat.openai.com/g/g-he7ZcyB1b-node-buddy)
 
 ### Fintechs:
 
