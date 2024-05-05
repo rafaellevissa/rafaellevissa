@@ -85,6 +85,12 @@ Sobre as categorias de tecnologias e experiências profissionais, deixarei abaix
 - [Repositórios de projetos](https://github.com/rafaellevissa?tab=repositories&q=&type=&language=go&sort=)
     - [GoLang, Google Search API, gRPC, Testify](https://github.com/rafaellevissa/google-search-service)
     - [Golang, gRPC, Postgres, Kafka](https://github.com/rafaellevissa/books-api-with-grpc)
+ 
+### Php:
+- [Vídeos](https://www.youtube.com/playlist?list=PLemoLhVHAhFSKn2Unlnk8EWtTujohrA9a)
+- [Repositórios de projetos](https://github.com/rafaellevissa?tab=repositories&q=&type=&language=php&sort=)
+    - [Php, Laravel, Docker, Github Actions, JWT, PhpUnit](https://github.com/rafaellevissa/bnb-bank-api)
+    - [Php, Laravel](https://github.com/rafaellevissa/test-skill-laravel-pleno)
 
 ## Por categoria de negócio:
 ### Inteligência Artificial:
