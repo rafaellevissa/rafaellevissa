@@ -17,9 +17,12 @@ Sempre trabalhei com tecnologia, quando adolescente trabalhei com manutenção d
 - stacks de programação: NodeJS Typescript / AdonisJS / NestJS, Golang, PHP com Laravel, Python Flask / Django, ReactJS / NextJS
 
 ## Eventos que já participei nos últimos anos: 
-- Devops Day,
-- Gophercon,
-- Meetups do Vale do Silício (Kafka e IA)
+- Devops Day Salvador 2023,
+- Gophercon 2023,
+- PEIE SP 2023,
+- Meetups do Vale do Silício (Kafka e IA) - 2024
+
+- **Próximos eventos**: Python Brasil 2024, Python Nordeste 2024, Devops Day Rio 2024
 
 ## Certificações: 
 - AWS Certified Solutions Architect – Associate,
@@ -135,6 +138,14 @@ Sobre as categorias de tecnologias e experiências profissionais, deixarei abaix
 ### Data analytics:
 - [Artigos](https://medium.com/@rafaellevissa/list/data-analytics-01b88daa0384)
 - [Arquiteturas de projetos e tempo de experiência](https://github.com/rafaellevissa/data-analytics)
+
+### Metaverso:
+- [Artigos](https://medium.com/@rafaellevissa/list/metaverse-projects-5a3f3fb51beb)
+- [Vídeos](https://www.youtube.com/playlist?list=PLemoLhVHAhFRxJ2VVBXhbaki8QTYQ02tP)
+
+### IoT (Internet Of Things):
+- [Artigos](https://medium.com/@rafaellevissa/list/iot-ee3bbf1ab4fa)
+- [Vídeos](https://www.youtube.com/playlist?list=PLemoLhVHAhFQ1vL-zkIfMN2bNLVhbT5Op)
 
 ### Projetos Mobile (React Native e Flutter):
 - [Artigos](https://medium.com/@rafaellevissa/list/mobile-projects-89caf4681438)
