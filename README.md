@@ -22,8 +22,10 @@ Sempre trabalhei com tecnologia, quando adolescente trabalhei com manutenção d
 - Gophercon 2023,
 - PEIE SP 2023,
 - Meetups do Vale do Silício (Kafka e IA) - 2024
+- Python Nordeste 2024
+- Devops Day Rio 2024
 
-- **Próximos eventos**: Python Brasil 2024, Python Nordeste 2024, Devops Day Rio 2024
+- **Próximos eventos**: Python Brasil 2024, Devops Day Salvador 2024
 
 ## Certificações: 
 - AWS Certified Solutions Architect – Associate,
