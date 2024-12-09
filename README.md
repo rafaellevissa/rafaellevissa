@@ -24,8 +24,10 @@ Sempre trabalhei com tecnologia, quando adolescente trabalhei com manutenção d
 - Meetups do Vale do Silício (Kafka e IA) - 2024
 - Python Nordeste 2024
 - Devops Day Rio 2024
+- Python Brasil 2024
+- Devops Day Salvador 2024
 
-- **Próximos eventos**: Python Brasil 2024, Devops Day Salvador 2024
+- **Próximos eventos**: 
 
 ## Certificações: 
 - AWS Certified Solutions Architect – Associate,
