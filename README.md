@@ -27,7 +27,11 @@ Sempre trabalhei com tecnologia, quando adolescente trabalhei com manutenção d
 - Python Brasil 2024
 - Devops Day Salvador 2024
 
-- **Próximos eventos**: 
+- **Próximos eventos**:
+- devops days feira 2025
+- Gophercon Latam 2025
+- Python Brasil 2025
+- The Developers Life Weekend 2025
 
 ## Certificações: 
 - AWS Certified Solutions Architect – Associate,
