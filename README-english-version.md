@@ -20,9 +20,18 @@ I've always worked with technology. As a teenager, I worked with computer mainte
 - Devops Day Salvador 2023,
 - Gophercon 2023,
 - PEIE SP 2023,
-- Silicon Valley Meetups (Kafka and AI) - 2024
+- Meetups do Vale do Silício (Kafka e IA) - 2024
+- Python Nordeste 2024
+- Devops Day Rio 2024
+- Python Brasil 2024
+- Devops Day Salvador 2024
+- devops days feira 2025 (Organizer team)
+- Gophercon Latam 2025
+- The Developers Life Weekend 2025
+- Codecon Curitiba 2025
 
-- **Upcoming events**: Python Brasil 2024, Python Nordeste 2024, Devops Day Rio 2024
+
+- **Upcoming events**: Python Brasil 2025
 
 ## Certifications:
 - AWS Certified Solutions Architect – Associate,
