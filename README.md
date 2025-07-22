@@ -26,12 +26,15 @@ Sempre trabalhei com tecnologia, quando adolescente trabalhei com manutenção d
 - Devops Day Rio 2024
 - Python Brasil 2024
 - Devops Day Salvador 2024
+- devops days feira 2025 (organizador)
+- Gophercon Latam 2025
+- The Developers Life Weekend 2025
+- Codecon Curitiba 2025
+
 
 - **Próximos eventos**:
-- devops days feira 2025
-- Gophercon Latam 2025
+
 - Python Brasil 2025
-- The Developers Life Weekend 2025
 
 ## Certificações: 
 - AWS Certified Solutions Architect – Associate,
